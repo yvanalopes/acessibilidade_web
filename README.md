@@ -1,11 +1,3 @@
-# Nome do Projeto
-
-Acessibilidade na Web
-
-## Qual o objetivo deste repositório?
-Criar uma Poc com Acessibilidade Web
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -74,6 +66,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-
-
-
